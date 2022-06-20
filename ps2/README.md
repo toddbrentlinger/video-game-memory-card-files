@@ -1,5 +1,9 @@
 # PlayStation 2
 
+## James Bond: Everything or Nothing
+
+* Story Mode Complete
+
 ## James Bond: Nightfire
 
 * All Gold Medals + SP Unlocks

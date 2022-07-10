@@ -2,10 +2,10 @@
 
 ## Jak and Daxter: The Precursor Legacy
 
-* 81/100 Power Cells
-* 1531/2000 Precursor Orbs
-* 93/112 Scout Flies
-* 80%
+* 101/101 Power Cells
+* 1939/2000 Precursor Orbs
+* 112/112 Scout Flies
+* 99%
 
 ## James Bond: Everything or Nothing
 
